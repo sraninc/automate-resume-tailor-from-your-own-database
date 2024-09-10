@@ -130,6 +130,9 @@ ENV/
 env.bak/
 venv.bak/
 
+#Ignore resumes folder
+resumes/
+
 # Spyder project settings
 .spyderproject
 .spyproject
